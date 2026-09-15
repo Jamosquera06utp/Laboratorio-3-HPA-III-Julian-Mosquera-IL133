@@ -1,0 +1,14 @@
+C:\Users\julia\OneDrive\Documentos\HPA III\Laboratorio3_parte2\Laboratorio3_parte2\obj\Debug\net10.0\Laboratorio3_parte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Documentos\HPA III\Laboratorio3_parte2\Laboratorio3_parte2\obj\Debug\net10.0\Laboratorio3_parte2.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Documentos\HPA III\Laboratorio3_parte2\Laboratorio3_parte2\obj\Debug\net10.0\Laboratorio3_parte2.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Documentos\HPA III\Laboratorio3_parte2\Laboratorio3_parte2\obj\Debug\net10.0\Laboratorio3_parte2.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Documentos\HPA III\Laboratorio3_parte2\Laboratorio3_parte2\bin\Debug\net10.0\Laboratorio3_parte2.exe
+C:\Users\julia\OneDrive\Documentos\HPA III\Laboratorio3_parte2\Laboratorio3_parte2\bin\Debug\net10.0\Laboratorio3_parte2.deps.json
+C:\Users\julia\OneDrive\Documentos\HPA III\Laboratorio3_parte2\Laboratorio3_parte2\bin\Debug\net10.0\Laboratorio3_parte2.runtimeconfig.json
+C:\Users\julia\OneDrive\Documentos\HPA III\Laboratorio3_parte2\Laboratorio3_parte2\bin\Debug\net10.0\Laboratorio3_parte2.dll
+C:\Users\julia\OneDrive\Documentos\HPA III\Laboratorio3_parte2\Laboratorio3_parte2\bin\Debug\net10.0\Laboratorio3_parte2.pdb
+C:\Users\julia\OneDrive\Documentos\HPA III\Laboratorio3_parte2\Laboratorio3_parte2\obj\Debug\net10.0\Laboratorio3_parte2.dll
+C:\Users\julia\OneDrive\Documentos\HPA III\Laboratorio3_parte2\Laboratorio3_parte2\obj\Debug\net10.0\refint\Laboratorio3_parte2.dll
+C:\Users\julia\OneDrive\Documentos\HPA III\Laboratorio3_parte2\Laboratorio3_parte2\obj\Debug\net10.0\Laboratorio3_parte2.pdb
+C:\Users\julia\OneDrive\Documentos\HPA III\Laboratorio3_parte2\Laboratorio3_parte2\obj\Debug\net10.0\Laboratorio3_parte2.genruntimeconfig.cache
+C:\Users\julia\OneDrive\Documentos\HPA III\Laboratorio3_parte2\Laboratorio3_parte2\obj\Debug\net10.0\ref\Laboratorio3_parte2.dll

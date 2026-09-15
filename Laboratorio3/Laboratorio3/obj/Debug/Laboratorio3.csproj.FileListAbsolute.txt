@@ -1,0 +1,10 @@
+C:\Users\julia\OneDrive\Documentos\HPA III\Laboratorio3\Laboratorio3\bin\Debug\Laboratorio3.exe.config
+C:\Users\julia\OneDrive\Documentos\HPA III\Laboratorio3\Laboratorio3\bin\Debug\Laboratorio3.exe
+C:\Users\julia\OneDrive\Documentos\HPA III\Laboratorio3\Laboratorio3\bin\Debug\Laboratorio3.pdb
+C:\Users\julia\OneDrive\Documentos\HPA III\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Documentos\HPA III\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.Form1.resources
+C:\Users\julia\OneDrive\Documentos\HPA III\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.Properties.Resources.resources
+C:\Users\julia\OneDrive\Documentos\HPA III\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.csproj.GenerateResource.cache
+C:\Users\julia\OneDrive\Documentos\HPA III\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Documentos\HPA III\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.exe
+C:\Users\julia\OneDrive\Documentos\HPA III\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.pdb
